@@ -1,6 +1,6 @@
 require("quantmod"); require("urca")
 
-setwd("C:\\Users\\dunca\\Documents\\Coding\\R\\QuantFinance")
+setwd("C:\\Users\\....")
 
 retrievePrice =  function(filename)
 {
