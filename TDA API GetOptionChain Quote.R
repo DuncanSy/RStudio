@@ -2,7 +2,7 @@ require("jsonlite"); require("data.table"); require("rvest")
 
 ## TDAmeritrade API (figure out how to house globally) ##
 
-apiKey <- "ATM2T4A9VMUBWRHZYETGWKB2OSAPWA0B"
+apiKey <- "********************************"
 
 ## Base URLs ##
 baseURL <- "https://api.tdameritrade.com"
