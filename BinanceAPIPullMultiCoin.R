@@ -2,8 +2,8 @@ require("quantmod"); require("urca"); require("stats"); require("jsonlite"); req
 require("tidyverse"); require("PerformanceAnalytics"); require("PortfolioAnalytics"); require("ROI.plugin.quadprog")
 require("ROI.plugin.glkp")
 
-api_Key <- "7E5tWdigUAw0DnwB5kR1bxgZGkmJmKPEKCrghsZUFAUIPyY7YgPGiD2NMMijTSAK"
-api_Secret <- "WP8NoDH2CVfas1Fxop2XmtQQsVcS63FpY1XXTAwqbpTwm5gU2twveSYXMjX6jBAg"
+api_Key <- "****************************************************************"
+api_Secret <- "****************************************************************"
 api_Url <- "https://api.binance.us"
 path <- "/api/v3/klines"
 
